@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+}
+#image{
+    background-size: cover;
+    width: 100vw;
+    height: 101vh;
+
+}
+#navBar{
+    background-color: rgba(0, 0, 0, 0.76);
+    width: 100vw;
+    height: 50px;
+    position: absolute;
+
+}
+ul li{
+    font-family: 'Oswald', sans-serif;
+    color: white;
+    display: inline-block;
+    font-size: 30px;
+    padding-left: 185px;
+    padding-right: 185px;
+}
+a{
+    text-decoration: none;
+}

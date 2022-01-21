@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    border: 0;
+    overflow: hidden;
+}
+
+img{
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+
+#door{
+    
+    position: absolute;
+    width: 330px;
+    height: 525px;
+    left: 537px;
+    top: 52px;
+    cursor: pointer;
+}
